@@ -1,0 +1,17 @@
+{
+  "name": "pubsubmessageontopicreceive",
+  "version": "1.0.0",
+  "description": "This project is for cloud function to get trigger after you get message on pubsub topic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ankush V. Nakaskar",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/pubsub": "^0.18.0",
+    "npm": "^6.1.0",
+    "to": "^0.2.9",
+    "update": "^0.7.4"
+  }
+}
